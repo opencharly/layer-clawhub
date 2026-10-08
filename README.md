@@ -53,7 +53,6 @@ After the image is built:
 
 - Owning skill: `/charly-openclaw:clawhub` — the ClawHub skill-registry CLI
 - Runtime parent: `/charly-coder:nodejs`
-- Bundled by: `/charly-openclaw:openclaw-full` (metalayer)
 - Gateway that consumes installed skills: `/charly-openclaw:openclaw`
 - [`opencharly/charly`](https://github.com/opencharly/charly) — the charly CLI and image builder
 - [`opencharly/opencharly`](https://github.com/opencharly/opencharly) — the umbrella
