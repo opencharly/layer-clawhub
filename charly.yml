@@ -43,6 +43,10 @@ clawhub-skill:
         description: |-
             ClawHub CLI for searching and installing OpenClaw skills.
             Use when working with the clawhub candy.
+        category: images
+        triggers:
+            - "the ClawHub CLI / searching and installing OpenClaw skills from the ClawHub registry"
+            - "the `clawhub` candy or its `clawdhub` alias"
         content: |-
             # clawhub -- ClawHub skill registry CLI
             
